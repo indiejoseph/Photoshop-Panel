@@ -7,10 +7,10 @@
     <val>Making a selection of a specific size</val>
   </str>
   <str name="Configurator/ActionScript/Script/desc###25" translate="yes">
-    <val>Makeing guidelines by selection</val>
+    <val>Add guidelines to selection</val>
   </str>
   <str name="Configurator/ActionScript/Script/desc###32" translate="yes">
-    <val>Add new guidline by golden ratio</val>
+    <val>Add guidelines to selection with addtional guideline by golden ratio</val>
   </str>
   <str name="Configurator/ActionScript/Script/desc###35" translate="yes">
     <val>Exports all layer comps to PNG files</val>
