@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asf locale="en_US" version="1.0" xmlns="http://ns.adobe.com/asf">
+  <str name="Configurator/ActionScript/Script/desc###19" translate="yes">
+    <val>Run JavaScript</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/desc###22" translate="yes">
+    <val>Making a selection of a specific size</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/desc###25" translate="yes">
+    <val>Add guidelines to selection</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/desc###32" translate="yes">
+    <val>Add guidelines to selection with addtional guideline by golden ratio</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/desc###35" translate="yes">
+    <val>Exports all layer comps to PNG files</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/desc###55" translate="yes">
+    <val><![CDATA[Exports slices for Android ]]></val>
+  </str>
+  <str name="Configurator/ActionScript/Script/desc###6" translate="yes">
+    <val>Run JavaScript</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/desc###63" translate="yes">
+    <val><![CDATA[Exports slices for Android ]]></val>
+  </str>
+  <str name="Configurator/ActionScript/Script/desc###66" translate="yes">
+    <val><![CDATA[Exports slices for Android ]]></val>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###18" translate="yes">
+    <val>Script</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###21" translate="yes">
+    <val>Make Selection</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###24" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###31" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###34" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###5" translate="yes">
+    <val>Script</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###54" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###62" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###65" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###15" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###2" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###28" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###9" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###1" translate="yes">
+    <val>Script File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###14" translate="yes">
+    <val>Make Selection</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###27" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###8" translate="yes">
+    <val>Script File</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###10" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###13" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###16" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###20" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###23" translate="yes">
+    <val>true</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###26" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###29" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###3" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###33" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###36" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###38" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###39" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###40" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###43" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###56" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###64" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###67" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###7" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Container/Canvas/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Container/VDividedBox/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/FlyoutMenu/about" translate="yes">
+    <val>About</val>
+  </str>
+  <str name="Configurator/key_###11" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###12" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###17" translate="yes">
+    <val>/Users/indiejoseph/Desktop/makeSelection.jsx</val>
+  </str>
+  <str name="Configurator/key_###30" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###37" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###4" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###41" translate="yes">
+    <val>Layout</val>
+  </str>
+  <str name="Configurator/key_###44" translate="yes">
+    <val><![CDATA[Export]]></val>
+  </str>
+  <str name="Configurator/watermark/htmlText" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/watermark/width" translate="yes">
+    <val>125</val>
+  </str>
+  <str name="Configurator/watermark/x" translate="yes">
+    <val>65</val>
+  </str>
+  <str name="Configurator/Widget/HRule/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###42" translate="yes">
+    <val/>
+  </str>
+</asf>

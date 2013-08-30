@@ -5,6 +5,9 @@ A useful Photoshop CC tools for Mobile/Website design.
 
 ![Preview](https://raw.github.com/indiejoseph/Photoshop-Panel/master/preview.png)
 
+#### Installation ####
+Open "Photoshop Panel.zxp".
+
 #### Layout ####
 1. Making a selection of a specific size
 2. Add guidelines to selection
