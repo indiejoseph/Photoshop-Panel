@@ -1,7 +1,7 @@
 Photoshop Panel
 ===============
 
-A useful photoshop tools for Mobile/Website design.
+A useful Photoshop CC tools for Mobile/Website design.
 
 ![Preview](https://raw.github.com/indiejoseph/Photoshop-Panel/master/preview.png)
 
@@ -12,4 +12,10 @@ A useful photoshop tools for Mobile/Website design.
 
 #### Export ####
 1. Exports all layer comps to PNG files
-2. Exports slices for Android image sizes - xhdpi(2x) hdpi(1.5x) mdpi(1x)
+2. Exports for Android image size formats
+	1. xhdpi/image.png(2x)
+	2. hdpi/image.png(1.5x)
+	3. mdpi/image.png(1x)
+3. Exports for IOS image size formats
+	1. images/image@2x.png
+	2. images/image.png

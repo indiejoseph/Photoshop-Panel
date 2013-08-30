@@ -21,6 +21,12 @@
   <str name="Configurator/ActionScript/Script/desc###6" translate="yes">
     <val>Run JavaScript</val>
   </str>
+  <str name="Configurator/ActionScript/Script/desc###63" translate="yes">
+    <val><![CDATA[Exports slices for Android ]]></val>
+  </str>
+  <str name="Configurator/ActionScript/Script/desc###66" translate="yes">
+    <val><![CDATA[Exports slices for Android ]]></val>
+  </str>
   <str name="Configurator/ActionScript/Script/name###18" translate="yes">
     <val>Script</val>
   </str>
@@ -40,6 +46,12 @@
     <val>Script</val>
   </str>
   <str name="Configurator/ActionScript/Script/name###54" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###62" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###65" translate="yes">
     <val/>
   </str>
   <str name="Configurator/ActionScript/ScriptFile/desc###15" translate="yes">
@@ -109,6 +121,12 @@
     <val>True</val>
   </str>
   <str name="Configurator/Attribute/visible/value###56" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###64" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###67" translate="yes">
     <val>True</val>
   </str>
   <str name="Configurator/Attribute/visible/value###7" translate="yes">
