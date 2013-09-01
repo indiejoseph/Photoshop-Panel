@@ -27,6 +27,9 @@
   <str name="Configurator/ActionScript/Script/desc###66" translate="yes">
     <val><![CDATA[Exports slices for Android ]]></val>
   </str>
+  <str name="Configurator/ActionScript/Script/desc###74" translate="yes">
+    <val>Measure the selection dimensions and create a text layer</val>
+  </str>
   <str name="Configurator/ActionScript/Script/name###18" translate="yes">
     <val>Script</val>
   </str>
@@ -52,6 +55,9 @@
     <val/>
   </str>
   <str name="Configurator/ActionScript/Script/name###65" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###73" translate="yes">
     <val/>
   </str>
   <str name="Configurator/ActionScript/ScriptFile/desc###15" translate="yes">
@@ -129,7 +135,16 @@
   <str name="Configurator/Attribute/visible/value###67" translate="yes">
     <val>True</val>
   </str>
+  <str name="Configurator/Attribute/visible/value###69" translate="yes">
+    <val>True</val>
+  </str>
   <str name="Configurator/Attribute/visible/value###7" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###71" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###75" translate="yes">
     <val>True</val>
   </str>
   <str name="Configurator/Container/Canvas/desc" translate="yes">
@@ -165,22 +180,31 @@
   <str name="Configurator/key_###44" translate="yes">
     <val><![CDATA[Export]]></val>
   </str>
+  <str name="Configurator/key_###72" translate="yes">
+    <val><![CDATA[Measure]]></val>
+  </str>
   <str name="Configurator/watermark/htmlText" translate="yes">
     <val/>
   </str>
   <str name="Configurator/watermark/width" translate="yes">
-    <val>125</val>
+    <val>312</val>
   </str>
   <str name="Configurator/watermark/x" translate="yes">
-    <val>65</val>
+    <val>-122</val>
   </str>
   <str name="Configurator/Widget/HRule/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/HRule/desc###68" translate="yes">
     <val/>
   </str>
   <str name="Configurator/Widget/Text/desc" translate="yes">
     <val/>
   </str>
   <str name="Configurator/Widget/Text/desc###42" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###70" translate="yes">
     <val/>
   </str>
 </asf>
